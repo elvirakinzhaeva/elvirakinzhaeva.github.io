@@ -1,7 +1,8 @@
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/tactile@v0.2.0
 title: The homepage of Elvira Kinzhaeva
 description: This website is my personal photo portfolio as a photographer and researcher.
 plugins:
-  - jemoji
+ - jekyll-remote-theme
+ -jemoji
 url: "https://elvirakinzhaeva.github.io/"
 markdown: kramdown
