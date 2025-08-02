@@ -1,5 +1,5 @@
 
-Welcome to My Personal Webpage! I am Elvira Kinzhaeva, a Master's student at the Graduate School of International Media, Communication, and Tourism Studies at Hokkaido University  
+Welcome to My Web CV page! I am Elvira Kinzhaeva, a Master's student at the Graduate School of International Media, Communication, and Tourism Studies at Hokkaido University  
 ![Alt Text](photo.ptofile.ella.jpg.JPG)
 
 # 👋 About Me
@@ -17,9 +17,47 @@ I completed my **bachelor's degree** with a thesis on the **history of contempor
 ---
 
 ## 🎓 Career & Education
+**Education**
 
-After graduation, I worked in **Tokyo** as an **inbound tourism manager**.  
-I’m currently pursuing a **Master’s degree** at the **Graduate School of International Media, Communication and Tourism Studies** at **Hokkaido University**.
+<img src="fefu.jpg" width="20"/> **Far Eastern Federal University**  
+*Bachelor of Arts · Japanese Studies*  
+
+2018 – 2023  
+
+I earned my bachelor’s degree in Japanese language and history at the Faculty of Oriental Studies.
+
+<img src="tokai.jpg" width="20"/> **Tokai University**  
+Exchange Student
+
+2020–2020
+
+I participated in the exchange program called “Fostering Bridge between Russia and Japan on Life Care for Economic Development of Russian Far East 2017”
+
+
+<img src="hokudai.jpg" width="20"/> **Hokkaido University**  
+*Exchange Student*  
+
+2021 – 2022  
+
+I participated in the Japanese Language and Culture Studies (JLCSP) exchange program.
+
+<img src="hokudai.jpg" width="20"/> **Hokkaido University**  
+*Research Student* 
+
+2024 – 2025  
+
+I studied at the research faculty of media and communication as research student.
+
+<img src="hokudai.jpg" width="20"/> **Hokkaido University**  
+*Master's degree · Tourism and Media*  
+
+2025 – 2027  
+
+Pursuing a Master's degree in Tourism Studies at the Graduate School of International Media, Communication and Tourism Studies (IMCTS).
+
+**Career**
+
+After graduating from Far Eastern Federal University, I worked in **Tokyo** as an **inbound tourism manager** from April 2023 to March 2024.  
 
 ---
 
