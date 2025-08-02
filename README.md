@@ -96,3 +96,4 @@ Current activities:
 
 Thanks for stopping by! 🌿
 If you have any questions, please contact me on [LinkedIn](https://www.linkedin.com/in/elvira-kinzhaeva-a17514374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+or [Instagram](https://www.instagram.com/alison.lost?igsh=bW5tb2JkMjJyYWw%3D&utm_source=qr)
