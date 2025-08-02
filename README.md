@@ -36,8 +36,9 @@ Specifically, I explore **why tourists edit their photos** and how these edits a
 
 Outside of academics, photography is my biggest passion.  
 I love capturing emotions, landscapes, everyday moments, and expressive portraits.
-Please visit my portfolio website 
-[Link] (https://elvirakinzhaevag5.wixsite.com/photo-portfolio?fbclid=PAQ0xDSwL6_pBleHRuA2FlbQIxMQABp8KNNx-tvE9h4OrkfzU4FbeXrQCxg50EDOf9qF8jHSGz6Zhx2v5TRTa_qTNH_aem_yNRHRVb0H0QepwLpWm0rEA)
+Please visit my portfolio website
+
+[Link Website](https://elvirakinzhaevag5.wixsite.com/photo-portfolio?fbclid=PAQ0xDSwL6_pBleHRuA2FlbQIxMQABp8KNNx-tvE9h4OrkfzU4FbeXrQCxg50EDOf9qF8jHSGz6Zhx2v5TRTa_qTNH_aem_yNRHRVb0H0QepwLpWm0rEA)
 
 
 Current activities:
