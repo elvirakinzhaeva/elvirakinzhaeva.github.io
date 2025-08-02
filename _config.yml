@@ -3,6 +3,5 @@ title: The homepage of Elvira Kinzhaeva
 description: A personal page of researcher and photographer
 plugins:
 - jekyll-remote-theme
-- jemoji
 url: "https://elvirakinzhaeva.github.io/"
 markdown: kramdown
