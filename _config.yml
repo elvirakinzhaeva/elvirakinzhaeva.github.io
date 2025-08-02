@@ -1,6 +1,6 @@
 remote_theme: pages-themes/tactile@v0.2.0
 title: The homepage of Elvira Kinzhaeva
-description: A personal page of researcher and photographer
+description: A personal page of a researcher and photographer
 plugins:
 - jekyll-remote-theme
 url: "https://elvirakinzhaeva.github.io/"
